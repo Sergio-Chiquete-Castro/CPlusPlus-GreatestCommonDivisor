@@ -22,3 +22,27 @@ int main() {
 	return 0;
 
 }
+
+/*
+
+while 9 != 6 [true]
+
+if 9 > 6 [true]
+
+9 = 9 - 6 == [3] 
+
+//////////////////////////
+while 3 != 6 [true]
+
+if 3 > 6 (false)
+
+else if 6 > 3 [true]
+
+6 = 6-3 == [3]
+
+/////////////////////////
+
+while ( 3 != 3) [false]
+
+output 
+*/
