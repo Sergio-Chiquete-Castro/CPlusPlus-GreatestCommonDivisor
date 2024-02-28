@@ -24,6 +24,7 @@ int main() {
 }
 
 /*
+ex. { m = 9, n = 6 }
 
 while 9 != 6 [true]
 
